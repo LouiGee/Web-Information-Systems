@@ -15,5 +15,5 @@
 
 ## Target hours revision 
 **Target**: 150 \
-**Current**: 3\
+**Current**: 5\
 **Hours per day needed**: ?
