@@ -1,4 +1,4 @@
-# Web-Technologies
+# Web-Information-Systems
 
 ## Exam Structure 
 
