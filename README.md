@@ -12,6 +12,7 @@
 #### Web Technology Services - Deadline 01/03/2024 x
 #### Web Technology Services - Deadline 24/03/2024
 #### Software Engineering Task - Deadline 01/04/2024
+#### Data Structures - Deadline 01/04/2024
 #### Cyber Security Assessment - Deadline 02/04/2024
 
 ## Target hours revision 
